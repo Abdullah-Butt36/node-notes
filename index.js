@@ -1,1 +1,3 @@
-console.log("Helo World")
+const obj = require('./Common');
+
+console.log(obj);
