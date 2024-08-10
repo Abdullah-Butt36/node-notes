@@ -1,3 +1,3 @@
-const obj = require('./Common');
+const obj = require('./CommonMod');
 
 console.log(obj);
